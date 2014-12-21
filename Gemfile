@@ -14,7 +14,7 @@ group :development, :test do
 end
 gem 'bootstrap-sass'
 gem 'high_voltage'
-gem 'mysql2'
+gem 'pg'
 gem 'simple_form'
 group :development do
   gem 'better_errors'
